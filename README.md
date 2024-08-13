@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 - create  
 git init  
 git add .  
-git branch -M main
+git branch -M main  
 git commit -m "version0.0"  
 git remote add origin <addr>  
 git push origin main
@@ -18,7 +18,7 @@ git push origin main
 - modify  
 git clone <addr>  
 git add .  
-git branch -M main
+git branch -M main  
 git commit -m "version0.0"  
 git remote add origin <addr>  
 git push origin main  
