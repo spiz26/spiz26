@@ -2,7 +2,7 @@
 - 👀 I’m interested in Reinforcement Learning.
 - 🌱 I’m currently learning hmm.
 
-<Portfolio>
+## Portfolio
 https://jeongyoon-spiz.notion.site/Hello-I-m-Jeongyoon-2fc3462f104c80ba8b8becaba1104d81
 
 <!---
