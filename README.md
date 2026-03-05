@@ -2,6 +2,9 @@
 - 👀 I’m interested in Reinforcement Learning.
 - 🌱 I’m currently learning hmm.
 
+<Portfolio>
+https://jeongyoon-spiz.notion.site/Hello-I-m-Jeongyoon-2fc3462f104c80ba8b8becaba1104d81
+
 <!---
 spiz26/spiz26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
